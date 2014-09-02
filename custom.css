@@ -4,3 +4,11 @@
 .date-header {display: none;}
 .post-outer h2{font: bold 22px Arial,Tahoma,Helvetica,FreeSans,sans-serif; color: #444;}
 h3.post-title{display: none;}
+.date-outer p{ line-height: 170%; font-size:1.2em}
+.blog-feeds{display:none;}
+#blog-pager{display:none;}
+.post-author{display:none;}
+.post-timestamp{display:none;}
+.post-comment-link{display:none;}
+#comments{display:none;}
+.main-inner{padding-bottom:0px;}
